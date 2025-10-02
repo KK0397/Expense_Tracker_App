@@ -1,8 +1,8 @@
-# expense_tracker
+# Expense Tracker App
 
-A new Flutter project.
+A Flutter project that assisted students in learning Flutter and creating apps
 
-## Getting Started
+## Getting Started (included in original creation of project)
 
 This project is a starting point for a Flutter application.
 
